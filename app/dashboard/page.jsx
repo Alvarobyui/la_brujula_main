@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 "use client";
 import BigCard from "@/components/BigCard";
 import GoalCard from "@/components/GoalCard";
